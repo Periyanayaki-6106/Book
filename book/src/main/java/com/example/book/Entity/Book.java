@@ -13,7 +13,7 @@ public class Book {
     private Long id;
 
     private String name;
-    private String type;
+    private int type;
     private int count;
 
     // Constructors, getters, and setters
