@@ -14,6 +14,7 @@ public class Book {
 
     private String name;
     private String type;
+    private int count;
 
     // Constructors, getters, and setters
     // (Getters and setters omitted for brevity)
